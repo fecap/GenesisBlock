@@ -6,7 +6,7 @@
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # url: "http://drhus.github.io/lab"
 # baseurl: "/lab"
-#url: "http://block0.com.br" 
+
 url: "http://genesisblock.fecap.br" 
 
 #baseurl: "/lab"
@@ -84,7 +84,7 @@ social-network-links:
   rss: true
   email: "genesisblock@fecap.br"
   facebook: FECAP
-  github: drhus/GenesisBlock.fecap.br
+  github: fecap/GenesisBlock
 #  twitter: Fecap
 #  reddit: yourname
 #  google-plus: +DeanAttali
