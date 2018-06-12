@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blockFrame Project (example)
+title: blockFrame Project
 subtitle: Crypto charting over the block-generation period
 tag: [blockFrame, charting, technical analysis]
 gh-repo: drhus/blockframe
@@ -17,7 +17,7 @@ author: Husam ABBOUD
 [blockFrame Original Paper](https://ssrn.com/abstract=3064115 )
 
 # Chart 
-<iframe src="http://data.blockframe.xyz/?blocks=72" style="height:330px;width:100%;border:none;" scrolling="no"></iframe>
+<iframe src="http://data.blockframe.xyz/?blocks=504" style="height:330px;width:100%;border:none;" scrolling="no"></iframe>
 
 # Why
  **Native blockchain experiance**
