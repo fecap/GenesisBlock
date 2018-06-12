@@ -17,10 +17,8 @@ To benchmark the global cryptocurrencies market from a security perspective, tra
 
 # Read list
 * [H/Rindex Paper](/files/SSRN-id3158785.pdf) and the relevant [Function application Spreadsheet](https://docs.google.com/spreadsheets/d/1CGyMPvkvtzZI1s6qLel2FSbWZm-niPaZQkpmWZpH_1U/edit#gid=1704959642) 
-
-
-#
-
+* [The Realistic Lucrative Case of Ethereum Classic attack](https://medium.com/@HusamABBOUD/the-realistic-lucrative-case-of-ethereum-classic-attack-with-1mm-today-8fa0430a7c25)
+* [Rindex -beta](http://rindex.io)
 
 
 .
