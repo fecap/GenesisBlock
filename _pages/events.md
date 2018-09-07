@@ -9,7 +9,7 @@ permalink: /events/
 
 ..|
 ----- | ----- | ----- |
-2018-09-11 | **Decifrando as Criptomoedas** | Teatro FECAP
+**2018-09-11 | Decifrando as Criptomoedas | Teatro FECAP**
 
 # Past Events
 
