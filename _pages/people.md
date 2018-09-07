@@ -110,3 +110,33 @@ We are extremely lucky to have the following advisories supporting and guiding o
 {% include list-circles.html items=page.advisory-list %}
 -->
 
+## Fellow Members
+
+* Bruno Marques Pereira
+* Caetano Silva Portella
+* Daniela Ferreira dos Santos
+* Emille Vitória Vasconcelos
+* Felipe Entreportes
+* Gabriel Wagner P. Carvalho
+* Igor Freire da Silva
+* Jefferson Luis Ferreira
+* Jhenier Santos do Nascimento 
+* Johny Silva Mendes
+* Kauê Rafael
+* Leonardo Fabris Lugoboni
+* Luana Miranda da Silva
+* Luiz Felipe Bernardo
+* Luryê Binda
+* Matheus G.A. Campos
+* Matheus Reis Mazine
+* Monise Maximo
+* Pedro de Oliveira e Silva
+* Rafaela Gonçalves Mendes
+* Raphael Augusto Camillo
+* Silvio L. Lemos Silva
+* Thainá Misseno Tavares
+* Vinicius Borges Gomes
+* Vinicius Lodeiro de Almeida
+* Vitor Guastaferro Mahmoud
+* William M. Amorin
+* Yara N. Domingues
