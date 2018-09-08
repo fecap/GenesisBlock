@@ -34,7 +34,7 @@ navbar-links:
     - Contact: "contact"
     
   People: "people":
-   - Membership: "membership"
+  # - Membership: "membership"
   Matters: "matters"
   #Projects: "projects"
   #Resources: "resources"
