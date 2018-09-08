@@ -30,10 +30,11 @@ description: The Blockchain Lab @ FECAP University
 navbar-links:
   About us:
     - What We Do: "what-we-do"
-    - Partners: "partners"
+   # - Partners: "partners"
     - Contact: "contact"
     
-  People: "people"
+  People: "people":
+   - Membership: "membership"
   Matters: "matters"
   #Projects: "projects"
   #Resources: "resources"
