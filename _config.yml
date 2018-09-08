@@ -33,7 +33,7 @@ navbar-links:
    # - Partners: "partners"
     - Contact: "contact"
     
-  People: "people":
+  People: "people"
   # - Membership: "membership"
   Matters: "matters"
   #Projects: "projects"
