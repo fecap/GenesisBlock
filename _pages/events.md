@@ -8,7 +8,7 @@ permalink: /events/
 # Upcoming Events
 
 ----- | ----- | ----- |
-**2018-09-11** | Decifrando as Criptomoedas [RSVP](https://goo.gl/forms/GEhQSkN4yO1jW4dk1) | Teatro FECAP
+**2018-09-11** | Decifrando as Criptomoedas, [RSVP](https://goo.gl/forms/GEhQSkN4yO1jW4dk1) | Teatro FECAP
 
 # Past Events
 
