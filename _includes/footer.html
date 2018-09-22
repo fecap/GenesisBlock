@@ -42,3 +42,9 @@
     </div>
   </div>
 </footer>
+  
+	{% if page.collection %}
+		<a id="edit" class="editMe" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.github.source.branch}}/{{site.collections_dir}}/{{ page.path }}">Edit</a>
+	{% else %}
+		<a id="edit" class="editMe" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.github.source.branch}}/{{ page.path }}">Edit</a>
+	{% endif %} 
