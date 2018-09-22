@@ -8,7 +8,7 @@ permalink: /events/
 # Upcoming Events
 
 ----- | ----- | ----- |
-**2018-09-25** | Trademark & Intellectual property management on Blockchain | GenesisBlock Lab
+**2018-09-25** | Trademark & Intellectual property management | GenesisBlock Lab
 
 # Past Events
 
