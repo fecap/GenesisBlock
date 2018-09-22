@@ -4,6 +4,15 @@
 background-color: rgba(255, 0, 0, 0.4);
 }
 */
+#edit {
+    position: fixed;
+    top: 0.5em;
+    right: calc( 1px + 1.5em );
+    transform: rotate(90deg);
+    color: transparent;
+    transform-origin: bottom right;
+    background: transparent;
+}
 
 /* --- Lists of circles --- */
 
