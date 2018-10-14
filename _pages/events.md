@@ -7,7 +7,7 @@ permalink: /events/
 
 # Upcoming Events
 
-..|
+⠀|
 ----- | ----- | ----- |
 2018-12-12 | GenesisBlock 2018 - Year End Summary | GenesisBlock Lab
 2018-11-27 | Peer-to-peer review | GenesisBlock Lab
@@ -18,7 +18,7 @@ permalink: /events/
 
 # Past Events
 
-..|
+⠀|
 ----- | ----- | ----- |
 2018-09-18 | Blockchain & Education | GenesisBlock Lab
 2018-09-11 | Decifrando as Criptomoedas | Teatro FECAP
