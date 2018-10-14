@@ -14,6 +14,8 @@ permalink: /events/
 2018-11-13 | Trademark & Intellectual property management | GenesisBlock Lab
 2018-10-30 | Impact of Blockchain Technology <br> on the Accounting Profession @Tiago Slavov | GenesisBlock Lab
 2018-10-16 | Blockchain Exchanges CoinBene @Sean | GenesisBlock Lab
+|<td colspan=2> 
+
 
 
 # Past Events
