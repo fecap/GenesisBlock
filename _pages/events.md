@@ -15,7 +15,7 @@ permalink: /events/
 
 ⠀|
 ----- | ----- | ----- |
-2018-11-27 | Blcokchain & its Decentralized Applications <br> <i>“Dapps and the Dawn of Financial Freedom”</i> @Mick Hagen | GenesisBlock Lab
+2018-11-27 | Blcokchain & its Decentralized Applications <br> _“The Dawn of Financial Freedom”_ @Mick Hagen | GenesisBlock Lab
 2018-11-13 | Trademark & Intellectual property management | GenesisBlock Lab
 2018-10-30 | Impact of Blockchain Technology <br> on the Accounting Profession @Tiago Slavov | GenesisBlock Lab
 2018-10-16 | Blockchain Exchanges CoinBene @Sean | GenesisBlock Lab
@@ -28,3 +28,4 @@ permalink: /events/
 2018-04-18 | Blockchain for International Conflict Resolutions | Teatro FECAP
 2018-04-06 | Introduction to Blockchain | GenesisBlock Lab
 2018-03-16 | GenesisBlock "Hello World" | Reitoria
+
