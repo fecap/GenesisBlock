@@ -9,7 +9,7 @@ permalink: /events/
 
 ⠀|
 ----- | ----- | ----- |
-2018-12-12 | GenesisBlock 2018 - Year End Summary | GenesisBlock Lab
+2018-12-11 | GenesisBlock & Bitcoin's 2018 Year in Review | GenesisBlock Lab
 
 # Past Events
 
