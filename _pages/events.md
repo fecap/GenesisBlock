@@ -10,12 +10,12 @@ permalink: /events/
 ⠀|
 ----- | ----- | ----- |
 2018-12-12 | GenesisBlock 2018 - Year End Summary | GenesisBlock Lab
-2018-11-27 | Blcokchain & its Decentralized Applications | GenesisBlock Lab
 
 # Past Events
 
 ⠀|
 ----- | ----- | ----- |
+2018-11-27 | Blcokchain & its Decentralized Applications @Mick Hagen | GenesisBlock Lab
 2018-11-13 | Trademark & Intellectual property management | GenesisBlock Lab
 2018-10-30 | Impact of Blockchain Technology <br> on the Accounting Profession @Tiago Slavov | GenesisBlock Lab
 2018-10-16 | Blockchain Exchanges CoinBene @Sean | GenesisBlock Lab
