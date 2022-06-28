@@ -7,9 +7,10 @@
 # url: "http://fecap.github.io/genesisBlock"
 # baseurl: "/lab"
 
-url: "http://genesisblock.fecap.br" 
+# url: "http://genesisblock.fecap.br" 
+url: "https://fecap.github.io/GenesisBlock" 
 
-#baseurl: "/lab"
+baseurl: "/GenesisBlock"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
